@@ -1,0 +1,5 @@
+internal_tx_id,amount_charged,fee
+TX1001,1000,30
+TX1002,500,15
+TX1003,1400,42
+TX1005,800,24

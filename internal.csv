@@ -1,0 +1,5 @@
+tx_id,user_id,amount,status
+TX1001,usr_1,1000,SUCCESS
+TX1002,usr_2,500,PENDING
+TX1003,usr_3,1500,SUCCESS
+TX1004,usr_4,2000,SUCCESS
